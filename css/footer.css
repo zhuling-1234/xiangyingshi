@@ -1,0 +1,42 @@
+.my_bg{background-color: #4fb5e6;}
+.my_border{
+    border-width: 1px solid;
+    border-color: #E1E1E1;
+    border-left: 0px;
+    border-right: 0px;
+    border-top: 0px;
+}
+.a_bg{background-color:#32619e;}
+.text_color{color:white}
+.text_small{font-size: 0.9rem;}
+.kong{
+    border:1px solid white;
+    width:60px;
+    margin-bottom: 50px;
+}
+.form-control{line-height: 2.3rem;}
+.w-35{width:235px}
+.col-md-3{width:200px;}
+.col-sm-4 span{color:red}
+input::-webkit-input-placeholder{color: white;}
+input:focus{color: #aaa;}
+.my_bgcolor{background-color: #32609e;}
+.my_bg2{height:255px;}
+.my_bg3{
+    height:60px;
+    border-top:1px solid #4aabda;
+}
+.text_color2{color:#4aabda}
+ul li{
+    display:inline-block;
+    background-image: url("../img/social_icon_24x24.png");
+    background-repeat: no-repeat;
+    width: 23.5px;
+    height: 24.5px;
+}
+.bg_qq{background-position:9% 83%;}
+.bg_wx{background-position:0% 83%;}
+.bg_wb{background-position:4.6% 83%;}
+.bg_ff{background-position:18.1% 83%;}
+.bg_in{background-position:27.2% 83%;}
+.bg_fr{background-position:31.9% 83%;}
